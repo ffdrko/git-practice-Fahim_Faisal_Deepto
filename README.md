@@ -43,6 +43,10 @@ Name: Fahim Faisal Deepto
 Today's date: 2026-10-08
 add(5, 3) = 8
 subtract(5, 3) = 2
+multiply(5, 3) = 15
+divide(6, 3) = 2.0
+Error: Cannot divide by zero.
+Error: Both inputs must be numbers (int or float).
 ```
 
 ## 🛠️ Features
