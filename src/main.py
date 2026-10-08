@@ -1,6 +1,6 @@
 from datetime import date
 
-from utils import add, subtract
+from utils import add, divide, multiply, subtract
 
 
 def main():
@@ -10,6 +10,8 @@ def main():
     # Demo basic calculator functions
     print(f"add(5, 3) = {add(5, 3)}")
     print(f"subtract(5, 3) = {subtract(5, 3)}")
+    print(f"multiply(5, 3) = {multiply(5, 3)}")
+    print(f"divide(6, 3) = {divide(6, 3)}")
 
 
 if __name__ == "__main__":
